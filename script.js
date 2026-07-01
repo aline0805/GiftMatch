@@ -21,7 +21,7 @@ const ctaButtons = document.querySelectorAll('.cta-button');
 ctaButtons.forEach(button => {
     button.addEventListener('click', function() {
         // Replace this URL with your actual booking link
-        const bookingUrl = 'https://calendly.com/your-booking-link'; // Update this
+        const bookingUrl = 'https://calendly.com/aline-beck0805/30min'; // Update this
         window.open(bookingUrl, '_blank');
         // Or you can use: window.location.href = bookingUrl;
     });
