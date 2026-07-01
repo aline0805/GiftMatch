@@ -173,17 +173,6 @@ Add your Google Analytics or other tracking:
 - **Message**: "Ready to find the perfect gift?"
 - **Button**: Links to your booking system
 
----
-
-## 💡 Tips for Success
-
-1. **Keep Content Fresh**: Update taglines and benefits as you refine your pitch
-2. **Add Social Proof**: Once you have users, add testimonials
-3. **Optimize for Mobile**: Test on real devices, not just browser resizing
-4. **Test Links**: Ensure all buttons link to working pages
-5. **Monitor Analytics**: Track user behavior and engagement
-6. **Update Video**: Replace the placeholder with your actual pitch video
-7. **Keep Brand Consistent**: Use the purple theme across all your marketing
 
 ---
 
@@ -195,26 +184,6 @@ Add your Google Analytics or other tracking:
 - Lazy-loading ready for images
 - Mobile-first responsive design
 
----
-
-## 🐛 Troubleshooting
-
-### Logo not showing?
-- Ensure `logo.svg` is in the root directory
-- Check file path in HTML matches exactly
-
-### Video not embedding?
-- Use YouTube embed URL (get from YouTube share button)
-- Format: `https://www.youtube.com/embed/VIDEO_ID`
-
-### Styling looks off?
-- Clear browser cache (Ctrl+Shift+Delete)
-- Try a different browser
-- Check responsive viewport settings
-
-### Buttons not working?
-- Verify booking URL is correct and accessible
-- Check console for JavaScript errors (F12)
 
 ---
 
@@ -230,37 +199,7 @@ Add your Google Analytics or other tracking:
 
 ## 📄 License
 
-This project is created for educational purposes as a school project. Feel free to customize and use it for your GiftMatch product launch!
-
----
-
-## 🎓 School Project Info
-
-**Project Name**: GiftMatch Landing Page  
-**Purpose**: Demonstrate web design, HTML/CSS/JavaScript skills  
-**Type**: Product Landing Page  
-**Status**: Ready for deployment ✅
-
----
-
-## 🤝 Support & Questions
-
-For questions about customization or deployment:
-1. Check the customization guide above
-2. Review the HTML comments in the code
-3. Test in different browsers
-4. Clear cache and reload
-
----
-
-## 🚀 Next Steps
-
-1. ✅ Add your logo (`logo.svg`)
-2. ✅ Update video link with your pitch
-3. ✅ Add your booking URL to buttons
-4. ✅ Update social media links
-5. ✅ Deploy to GitHub Pages or hosting
-6. ✅ Share with stakeholders!
+This project is created for educational purposes as a school project. 
 
 ---
 
